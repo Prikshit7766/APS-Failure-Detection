@@ -5,7 +5,7 @@ __pycache__/
 artifact
 # C extensions
 *.so
-
+check_log_and_exception.py
 # Distribution / packaging
 .Python
 build/
